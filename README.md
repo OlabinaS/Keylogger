@@ -1,7 +1,7 @@
 # Keylogger
 
 A script that records all input from the keyboard and saves everything in a txt file.<br/><br/>
-+Used library:
+Used library:
 <ul>
 <li>keyboard (for key detection)</li>
 <li>threading (for counting time and writing to the file by intervals)</li>
